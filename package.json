@@ -1,0 +1,20 @@
+{
+  "name": "boiler_plate",
+  "version": "0.1.0",
+  "description": "The various boilerplate scripts I use in my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DetroitWhiskey136/dannos-tools.git"
+  },
+  "keywords": [],
+  "author": "Danno3817",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DetroitWhiskey136/dannos-tools/issues"
+  },
+  "homepage": "https://github.com/DetroitWhiskey136/dannos-tools#readme"
+}
