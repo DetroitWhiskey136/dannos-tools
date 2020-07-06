@@ -2,7 +2,7 @@ const fs = require('fs');
 class Logger {
   static timestamp() {
     const date = new Date;
-    const m = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const m = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul' 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     const formatedTime = `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
     const formatedDate = `${m[date.getMonth()]}-${date.getDate()}-${date.getFullYear()}`
 
